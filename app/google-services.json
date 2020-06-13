@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547902326248",
+    "firebase_url": "https://vizassist-9f33c.firebaseio.com",
+    "project_id": "vizassist-9f33c",
+    "storage_bucket": "vizassist-9f33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547902326248:android:b18f8b42b045165e80505d",
+        "android_client_info": {
+          "package_name": "com.example.vizassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547902326248-e7odlcknhbdlp4atqffq5li90qkkae5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyJC4hX_5DDoq36v2T8M5j7Wpblp4nF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547902326248-e7odlcknhbdlp4atqffq5li90qkkae5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
